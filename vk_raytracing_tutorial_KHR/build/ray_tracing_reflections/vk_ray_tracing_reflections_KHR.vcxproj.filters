@@ -1,0 +1,127 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\websp\Desktop\nvpro_base\vk_raytracing_tutorial_KHR\ray_tracing_reflections\hello_vulkan.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\websp\Desktop\nvpro_base\vk_raytracing_tutorial_KHR\ray_tracing_reflections\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\websp\Desktop\nvpro_base\vk_raytracing_tutorial_KHR\common\obj_loader.cpp">
+      <Filter>common</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\websp\Desktop\nvpro_base\shared_sources\imgui\imgui.cpp">
+      <Filter>common</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\websp\Desktop\nvpro_base\shared_sources\imgui\imgui_draw.cpp">
+      <Filter>common</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\websp\Desktop\nvpro_base\shared_sources\imgui\imgui_helper.cpp">
+      <Filter>common</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\websp\Desktop\nvpro_base\shared_sources\imgui\imgui_impl_glfw.cpp">
+      <Filter>common</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\websp\Desktop\nvpro_base\shared_sources\imgui\imgui_widgets.cpp">
+      <Filter>common</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\websp\Desktop\nvpro_base\shared_sources\imgui\imgui_orient.cpp">
+      <Filter>common</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\websp\Desktop\nvpro_base\shared_sources\imgui\imgui_impl_gl.cpp">
+      <Filter>common</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\websp\Desktop\nvpro_base\shared_sources\imgui\imgui_impl_vk.cpp">
+      <Filter>common</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\websp\Desktop\nvpro_base\vk_raytracing_tutorial_KHR\ray_tracing_reflections\hello_vulkan.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\websp\Desktop\nvpro_base\shared_sources\resources.h">
+      <Filter>common</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\websp\Desktop\nvpro_base\vk_raytracing_tutorial_KHR\common\obj_loader.h">
+      <Filter>common</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\VulkanSDK\1.2.154.1\Include\vulkan\vulkan.h">
+      <Filter>common</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\websp\Desktop\nvpro_base\shared_sources\imgui\imconfig.h">
+      <Filter>common</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\websp\Desktop\nvpro_base\shared_sources\imgui\imgui.h">
+      <Filter>common</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\websp\Desktop\nvpro_base\shared_sources\imgui\imgui_internal.h">
+      <Filter>common</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\websp\Desktop\nvpro_base\shared_sources\imgui\imgui_impl_glfw.h">
+      <Filter>common</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\websp\Desktop\nvpro_base\shared_sources\imgui\imgui_helper.h">
+      <Filter>common</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\websp\Desktop\nvpro_base\shared_sources\imgui\imgui_orient.h">
+      <Filter>common</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\websp\Desktop\nvpro_base\shared_sources\imgui\imgui_impl_gl.h">
+      <Filter>common</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\websp\Desktop\nvpro_base\shared_sources\imgui\imgui_impl_vk.h">
+      <Filter>common</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\websp\Desktop\nvpro_base\vk_raytracing_tutorial_KHR\ray_tracing_reflections\shaders\frag_shader.frag">
+      <Filter>Shader_Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\websp\Desktop\nvpro_base\vk_raytracing_tutorial_KHR\ray_tracing_reflections\shaders\passthrough.vert">
+      <Filter>Shader_Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\websp\Desktop\nvpro_base\vk_raytracing_tutorial_KHR\ray_tracing_reflections\shaders\post.frag">
+      <Filter>Shader_Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\websp\Desktop\nvpro_base\vk_raytracing_tutorial_KHR\ray_tracing_reflections\shaders\raytrace.rchit">
+      <Filter>Shader_Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\websp\Desktop\nvpro_base\vk_raytracing_tutorial_KHR\ray_tracing_reflections\shaders\raytrace.rgen">
+      <Filter>Shader_Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\websp\Desktop\nvpro_base\vk_raytracing_tutorial_KHR\ray_tracing_reflections\shaders\raytrace.rmiss">
+      <Filter>Shader_Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\websp\Desktop\nvpro_base\vk_raytracing_tutorial_KHR\ray_tracing_reflections\shaders\raytraceShadow.rmiss">
+      <Filter>Shader_Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\websp\Desktop\nvpro_base\vk_raytracing_tutorial_KHR\ray_tracing_reflections\shaders\vert_shader.vert">
+      <Filter>Shader_Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\websp\Desktop\nvpro_base\vk_raytracing_tutorial_KHR\ray_tracing_reflections\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\websp\Desktop\nvpro_base\vk_raytracing_tutorial_KHR\ray_tracing_reflections\shaders\raycommon.glsl">
+      <Filter>Shader_Files</Filter>
+    </None>
+    <None Include="C:\Users\websp\Desktop\nvpro_base\vk_raytracing_tutorial_KHR\ray_tracing_reflections\shaders\wavefront.glsl">
+      <Filter>Shader_Files</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="C:\Users\websp\Desktop\nvpro_base\shared_sources\resources.rc">
+      <Filter>common</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Shader_Files">
+      <UniqueIdentifier>{57E96D35-E564-31AC-AB3E-CC4C7D779AA8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{680511B5-533B-3985-9585-D3D3E50CA12A}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="common">
+      <UniqueIdentifier>{B17AC8D6-4079-3F0F-8852-14E7709F73AB}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

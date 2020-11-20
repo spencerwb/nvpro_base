@@ -1,0 +1,456 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\websp\Desktop\nvpro_base\vk_raytracing_tutorial_KHR\build\shared_sources\CMakeFiles\shared_sources.dir\cmake_pch.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\websp\Desktop\nvpro_base\shared_sources\nvh\appwindowprofiler.cpp">
+      <Filter>nvh</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\websp\Desktop\nvpro_base\shared_sources\nvh\bitarray.cpp">
+      <Filter>nvh</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\websp\Desktop\nvpro_base\shared_sources\nvh\cameramanipulator.cpp">
+      <Filter>nvh</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\websp\Desktop\nvpro_base\shared_sources\nvh\filemapping.cpp">
+      <Filter>nvh</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\websp\Desktop\nvpro_base\shared_sources\nvh\gltfscene.cpp">
+      <Filter>nvh</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\websp\Desktop\nvpro_base\shared_sources\nvh\nvprint.cpp">
+      <Filter>nvh</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\websp\Desktop\nvpro_base\shared_sources\nvh\parametertools.cpp">
+      <Filter>nvh</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\websp\Desktop\nvpro_base\shared_sources\nvh\profiler.cpp">
+      <Filter>nvh</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\websp\Desktop\nvpro_base\shared_sources\nvh\shaderfilemanager.cpp">
+      <Filter>nvh</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\websp\Desktop\nvpro_base\shared_sources\noise\noise1234.cpp">
+      <Filter>noise</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\websp\Desktop\nvpro_base\shared_sources\fileformats\cadscenefile.cpp">
+      <Filter>fileformats</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\websp\Desktop\nvpro_base\shared_sources\fileformats\cgltf.cpp">
+      <Filter>fileformats</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\websp\Desktop\nvpro_base\shared_sources\fileformats\nv_dds.cpp">
+      <Filter>fileformats</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\websp\Desktop\nvpro_base\shared_sources\nvpwindow.cpp">
+      <Filter>nvp</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\websp\Desktop\nvpro_base\shared_sources\nvpsystem.cpp">
+      <Filter>nvp</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\websp\Desktop\nvpro_base\shared_sources\nvpsystem_win32.cpp">
+      <Filter>nvp</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\websp\Desktop\nvpro_base\shared_sources\nvvk\allocator_dma_vkgl.cpp">
+      <Filter>nvvk</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\websp\Desktop\nvpro_base\shared_sources\nvvk\appwindowprofiler_vk.cpp">
+      <Filter>nvvk</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\websp\Desktop\nvpro_base\shared_sources\nvvk\commands_vk.cpp">
+      <Filter>nvvk</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\websp\Desktop\nvpro_base\shared_sources\nvvk\context_vk.cpp">
+      <Filter>nvvk</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\websp\Desktop\nvpro_base\shared_sources\nvvk\debug_util_vk.cpp">
+      <Filter>nvvk</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\websp\Desktop\nvpro_base\shared_sources\nvvk\descriptorsets_vk.cpp">
+      <Filter>nvvk</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\websp\Desktop\nvpro_base\shared_sources\nvvk\error_vk.cpp">
+      <Filter>nvvk</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\websp\Desktop\nvpro_base\shared_sources\nvvk\extensions_vk.cpp">
+      <Filter>nvvk</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\websp\Desktop\nvpro_base\shared_sources\nvvk\gizmos_vk.cpp">
+      <Filter>nvvk</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\websp\Desktop\nvpro_base\shared_sources\nvvk\images_vk.cpp">
+      <Filter>nvvk</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\websp\Desktop\nvpro_base\shared_sources\nvvk\memorymanagement_vk.cpp">
+      <Filter>nvvk</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\websp\Desktop\nvpro_base\shared_sources\nvvk\memorymanagement_vkgl.cpp">
+      <Filter>nvvk</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\websp\Desktop\nvpro_base\shared_sources\nvvk\pipeline_vk.cpp">
+      <Filter>nvvk</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\websp\Desktop\nvpro_base\shared_sources\nvvk\profiler_vk.cpp">
+      <Filter>nvvk</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\websp\Desktop\nvpro_base\shared_sources\nvvk\renderpasses_vk.cpp">
+      <Filter>nvvk</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\websp\Desktop\nvpro_base\shared_sources\nvvk\samplers_vk.cpp">
+      <Filter>nvvk</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\websp\Desktop\nvpro_base\shared_sources\nvvk\shadermodulemanager_vk.cpp">
+      <Filter>nvvk</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\websp\Desktop\nvpro_base\shared_sources\nvvk\swapchain_vk.cpp">
+      <Filter>nvvk</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\websp\Desktop\nvpro_base\shared_sources\nvgl\appwindowprofiler_gl.cpp">
+      <Filter>nvgl</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\websp\Desktop\nvpro_base\shared_sources\nvgl\contextwindow_gl.cpp">
+      <Filter>nvgl</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\websp\Desktop\nvpro_base\shared_sources\nvgl\error_gl.cpp">
+      <Filter>nvgl</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\websp\Desktop\nvpro_base\shared_sources\nvgl\extensions_gl.cpp">
+      <Filter>nvgl</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\websp\Desktop\nvpro_base\shared_sources\nvgl\profiler_gl.cpp">
+      <Filter>nvgl</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\websp\Desktop\nvpro_base\shared_sources\nvgl\programmanager_gl.cpp">
+      <Filter>nvgl</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\websp\Desktop\nvpro_base\shared_sources\imgui\imgui.cpp">
+      <Filter>imgui</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\websp\Desktop\nvpro_base\shared_sources\imgui\imgui_draw.cpp">
+      <Filter>imgui</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\websp\Desktop\nvpro_base\shared_sources\imgui\imgui_helper.cpp">
+      <Filter>imgui</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\websp\Desktop\nvpro_base\shared_sources\imgui\imgui_impl_glfw.cpp">
+      <Filter>imgui</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\websp\Desktop\nvpro_base\shared_sources\imgui\imgui_widgets.cpp">
+      <Filter>imgui</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\websp\Desktop\nvpro_base\shared_sources\imgui\imgui_orient.cpp">
+      <Filter>imgui</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\websp\Desktop\nvpro_base\shared_sources\imgui\imgui_impl_gl.cpp">
+      <Filter>imgui</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\websp\Desktop\nvpro_base\shared_sources\imgui\imgui_impl_vk.cpp">
+      <Filter>imgui</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\websp\Desktop\nvpro_base\shared_sources\nvh\appwindowcamerainertia.hpp">
+      <Filter>nvh</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\websp\Desktop\nvpro_base\shared_sources\nvh\appwindowprofiler.hpp">
+      <Filter>nvh</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\websp\Desktop\nvpro_base\shared_sources\nvh\bitarray.hpp">
+      <Filter>nvh</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\websp\Desktop\nvpro_base\shared_sources\nvh\cameracontrol.hpp">
+      <Filter>nvh</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\websp\Desktop\nvpro_base\shared_sources\nvh\camerainertia.hpp">
+      <Filter>nvh</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\websp\Desktop\nvpro_base\shared_sources\nvh\cameramanipulator.hpp">
+      <Filter>nvh</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\websp\Desktop\nvpro_base\shared_sources\nvh\filemapping.hpp">
+      <Filter>nvh</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\websp\Desktop\nvpro_base\shared_sources\nvh\fileoperations.hpp">
+      <Filter>nvh</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\websp\Desktop\nvpro_base\shared_sources\nvh\geometry.hpp">
+      <Filter>nvh</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\websp\Desktop\nvpro_base\shared_sources\nvh\gltfscene.hpp">
+      <Filter>nvh</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\websp\Desktop\nvpro_base\shared_sources\nvh\inputparser.h">
+      <Filter>nvh</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\websp\Desktop\nvpro_base\shared_sources\nvh\misc.hpp">
+      <Filter>nvh</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\websp\Desktop\nvpro_base\shared_sources\nvh\nsightevents.h">
+      <Filter>nvh</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\websp\Desktop\nvpro_base\shared_sources\nvh\nvprint.hpp">
+      <Filter>nvh</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\websp\Desktop\nvpro_base\shared_sources\nvh\parametertools.hpp">
+      <Filter>nvh</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\websp\Desktop\nvpro_base\shared_sources\nvh\profiler.hpp">
+      <Filter>nvh</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\websp\Desktop\nvpro_base\shared_sources\nvh\radixsort.hpp">
+      <Filter>nvh</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\websp\Desktop\nvpro_base\shared_sources\nvh\shaderfilemanager.hpp">
+      <Filter>nvh</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\websp\Desktop\nvpro_base\shared_sources\nvh\timesampler.hpp">
+      <Filter>nvh</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\websp\Desktop\nvpro_base\shared_sources\nvh\trangeallocator.hpp">
+      <Filter>nvh</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\websp\Desktop\nvpro_base\shared_sources\nvmath\nvmath.h">
+      <Filter>nvmath</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\websp\Desktop\nvpro_base\shared_sources\nvmath\nvmath.inl">
+      <Filter>nvmath</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\websp\Desktop\nvpro_base\shared_sources\nvmath\nvmath_glsltypes.h">
+      <Filter>nvmath</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\websp\Desktop\nvpro_base\shared_sources\nvmath\nvmath_hlsltypes.h">
+      <Filter>nvmath</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\websp\Desktop\nvpro_base\shared_sources\nvmath\nvmath_types.h">
+      <Filter>nvmath</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\websp\Desktop\nvpro_base\shared_sources\noise\mersennetwister1.h">
+      <Filter>noise</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\websp\Desktop\nvpro_base\shared_sources\noise\noise1234.h">
+      <Filter>noise</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\websp\Desktop\nvpro_base\shared_sources\fileformats\bmp.hpp">
+      <Filter>fileformats</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\websp\Desktop\nvpro_base\shared_sources\fileformats\cadscenefile.h">
+      <Filter>fileformats</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\websp\Desktop\nvpro_base\shared_sources\fileformats\cgltf.h">
+      <Filter>fileformats</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\websp\Desktop\nvpro_base\shared_sources\fileformats\json.hpp">
+      <Filter>fileformats</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\websp\Desktop\nvpro_base\shared_sources\fileformats\nv_dds.h">
+      <Filter>fileformats</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\websp\Desktop\nvpro_base\shared_sources\fileformats\stb_image.h">
+      <Filter>fileformats</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\websp\Desktop\nvpro_base\shared_sources\fileformats\stb_image_write.h">
+      <Filter>fileformats</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\websp\Desktop\nvpro_base\shared_sources\fileformats\tiny_gltf.h">
+      <Filter>fileformats</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\websp\Desktop\nvpro_base\shared_sources\fileformats\tiny_gltf_freeimage.h">
+      <Filter>fileformats</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\websp\Desktop\nvpro_base\shared_sources\fileformats\tiny_obj_loader.h">
+      <Filter>fileformats</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\websp\Desktop\nvpro_base\shared_sources\nvpwindow.hpp">
+      <Filter>nvp</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\websp\Desktop\nvpro_base\shared_sources\nvpsystem.hpp">
+      <Filter>nvp</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\websp\Desktop\nvpro_base\shared_sources\nvvk\allocator_dedicated_vk.hpp">
+      <Filter>nvvk</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\websp\Desktop\nvpro_base\shared_sources\nvvk\allocator_dma_vk.hpp">
+      <Filter>nvvk</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\websp\Desktop\nvpro_base\shared_sources\nvvk\allocator_dma_vkgl.hpp">
+      <Filter>nvvk</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\websp\Desktop\nvpro_base\shared_sources\nvvk\allocator_vk.hpp">
+      <Filter>nvvk</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\websp\Desktop\nvpro_base\shared_sources\nvvk\allocator_vma_vk.hpp">
+      <Filter>nvvk</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\websp\Desktop\nvpro_base\shared_sources\nvvk\appbase_vkpp.hpp">
+      <Filter>nvvk</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\websp\Desktop\nvpro_base\shared_sources\nvvk\appwindowprofiler_vk.hpp">
+      <Filter>nvvk</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\websp\Desktop\nvpro_base\shared_sources\nvvk\buffers_vk.hpp">
+      <Filter>nvvk</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\websp\Desktop\nvpro_base\shared_sources\nvvk\commands_vk.hpp">
+      <Filter>nvvk</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\websp\Desktop\nvpro_base\shared_sources\nvvk\context_vk.hpp">
+      <Filter>nvvk</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\websp\Desktop\nvpro_base\shared_sources\nvvk\debug_util_vk.hpp">
+      <Filter>nvvk</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\websp\Desktop\nvpro_base\shared_sources\nvvk\descriptorsets_vk.hpp">
+      <Filter>nvvk</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\websp\Desktop\nvpro_base\shared_sources\nvvk\error_vk.hpp">
+      <Filter>nvvk</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\websp\Desktop\nvpro_base\shared_sources\nvvk\extensions_vk.hpp">
+      <Filter>nvvk</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\websp\Desktop\nvpro_base\shared_sources\nvvk\gizmos_vk.hpp">
+      <Filter>nvvk</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\websp\Desktop\nvpro_base\shared_sources\nvvk\images_vk.hpp">
+      <Filter>nvvk</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\websp\Desktop\nvpro_base\shared_sources\nvvk\memorymanagement_vk.hpp">
+      <Filter>nvvk</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\websp\Desktop\nvpro_base\shared_sources\nvvk\memorymanagement_vkgl.hpp">
+      <Filter>nvvk</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\websp\Desktop\nvpro_base\shared_sources\nvvk\pipeline_vk.hpp">
+      <Filter>nvvk</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\websp\Desktop\nvpro_base\shared_sources\nvvk\profiler_vk.hpp">
+      <Filter>nvvk</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\websp\Desktop\nvpro_base\shared_sources\nvvk\raytraceKHR_vk.hpp">
+      <Filter>nvvk</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\websp\Desktop\nvpro_base\shared_sources\nvvk\raytraceNV_vk.hpp">
+      <Filter>nvvk</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\websp\Desktop\nvpro_base\shared_sources\nvvk\renderpasses_vk.hpp">
+      <Filter>nvvk</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\websp\Desktop\nvpro_base\shared_sources\nvvk\samplers_vk.hpp">
+      <Filter>nvvk</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\websp\Desktop\nvpro_base\shared_sources\nvvk\shadermodulemanager_vk.hpp">
+      <Filter>nvvk</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\websp\Desktop\nvpro_base\shared_sources\nvvk\shaders_vk.hpp">
+      <Filter>nvvk</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\websp\Desktop\nvpro_base\shared_sources\nvvk\structs_vk.hpp">
+      <Filter>nvvk</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\websp\Desktop\nvpro_base\shared_sources\nvvk\swapchain_vk.hpp">
+      <Filter>nvvk</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\websp\Desktop\nvpro_base\shared_sources\nvgl\appwindowprofiler_gl.hpp">
+      <Filter>nvgl</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\websp\Desktop\nvpro_base\shared_sources\nvgl\base_gl.hpp">
+      <Filter>nvgl</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\websp\Desktop\nvpro_base\shared_sources\nvgl\contextwindow_gl.hpp">
+      <Filter>nvgl</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\websp\Desktop\nvpro_base\shared_sources\nvgl\error_gl.hpp">
+      <Filter>nvgl</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\websp\Desktop\nvpro_base\shared_sources\nvgl\extensions_gl.hpp">
+      <Filter>nvgl</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\websp\Desktop\nvpro_base\shared_sources\nvgl\glsltypes_gl.hpp">
+      <Filter>nvgl</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\websp\Desktop\nvpro_base\shared_sources\nvgl\profiler_gl.hpp">
+      <Filter>nvgl</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\websp\Desktop\nvpro_base\shared_sources\nvgl\programmanager_gl.hpp">
+      <Filter>nvgl</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\VulkanSDK\1.2.154.1\Include\vulkan\vulkan.h">
+      <Filter>Vulkan</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\websp\Desktop\nvpro_base\shared_sources\imgui\imconfig.h">
+      <Filter>imgui</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\websp\Desktop\nvpro_base\shared_sources\imgui\imgui.h">
+      <Filter>imgui</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\websp\Desktop\nvpro_base\shared_sources\imgui\imgui_internal.h">
+      <Filter>imgui</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\websp\Desktop\nvpro_base\shared_sources\imgui\imgui_impl_glfw.h">
+      <Filter>imgui</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\websp\Desktop\nvpro_base\shared_sources\imgui\imgui_helper.h">
+      <Filter>imgui</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\websp\Desktop\nvpro_base\shared_sources\imgui\imgui_orient.h">
+      <Filter>imgui</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\websp\Desktop\nvpro_base\shared_sources\imgui\imgui_impl_gl.h">
+      <Filter>imgui</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\websp\Desktop\nvpro_base\shared_sources\imgui\imgui_impl_vk.h">
+      <Filter>imgui</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\websp\Desktop\nvpro_base\vk_raytracing_tutorial_KHR\build\shared_sources\CMakeFiles\shared_sources.dir\Debug\cmake_pch.hxx">
+      <Filter>Precompile Header File</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\websp\Desktop\nvpro_base\vk_raytracing_tutorial_KHR\build\shared_sources\CMakeFiles\shared_sources.dir\Release\cmake_pch.hxx">
+      <Filter>Precompile Header File</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\websp\Desktop\nvpro_base\vk_raytracing_tutorial_KHR\build\shared_sources\CMakeFiles\shared_sources.dir\MinSizeRel\cmake_pch.hxx">
+      <Filter>Precompile Header File</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\websp\Desktop\nvpro_base\vk_raytracing_tutorial_KHR\build\shared_sources\CMakeFiles\shared_sources.dir\RelWithDebInfo\cmake_pch.hxx">
+      <Filter>Precompile Header File</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\websp\Desktop\nvpro_base\shared_sources\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Precompile Header File">
+      <UniqueIdentifier>{C56426EB-F363-30A0-AF6A-51E882397271}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{680511B5-533B-3985-9585-D3D3E50CA12A}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Vulkan">
+      <UniqueIdentifier>{99D3A8B6-D2CA-36BE-AA41-2FCDD0B8E6BC}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="fileformats">
+      <UniqueIdentifier>{2633220C-2A27-341F-9E2C-B9394D71117F}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="imgui">
+      <UniqueIdentifier>{C9C7C3C4-20C3-34B9-B970-BA73860F9039}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="noise">
+      <UniqueIdentifier>{EF5DFAF5-0E9B-3EBA-9C80-6B04844B49FD}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="nvgl">
+      <UniqueIdentifier>{7CC767A6-617F-3D7A-A3D5-D4A96FDC5DF3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="nvh">
+      <UniqueIdentifier>{2BAC4F7C-3288-31D0-AE0D-7CA4C9E2DC49}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="nvmath">
+      <UniqueIdentifier>{6A5952DE-B024-3153-A6AB-BDEC673CA5B6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="nvp">
+      <UniqueIdentifier>{754FA841-D1A7-3C66-A18F-9D4F01ABAF41}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="nvvk">
+      <UniqueIdentifier>{1A94E41F-0892-3E38-AFE6-6057C9333191}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
